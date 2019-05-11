@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dat Ve Tau</string>
+
+    <string-array name="lan_array">
+        <item>USD</item>
+        <item>VND</item>
+    </string-array>
+</resources>
